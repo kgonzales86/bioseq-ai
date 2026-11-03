@@ -324,7 +324,7 @@ Planned areas for future development include:
 BioSeq AI was created collaboratively during **Hacktoberfest Toronto × HuskyHack 2026** by:
 
 - **Kristian Gonzales**
-- **Stephanie**
+- **Stephanie Clark**
 - **Kriesha Eyer**
 - **Saniya Chadha**
 - **Ali Al-Reda El-Zein**
